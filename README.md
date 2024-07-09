@@ -13,21 +13,21 @@ Body Goals Workout is a comprehensive fitness app designed to help users achieve
 
 ## Screenshots
 
-| Onboarding                              | Home                                  | Workout Categories                   |
-|-----------------------------------------|---------------------------------------|--------------------------------------|
-| ![Onboarding](ss/Onboarding.png)        | ![Home](ss/Home.png)                  | ![Workout Categories](ss/Categories.png) |
+| Onboarding                            | Home                                    | Workout Categories                    |
+|---------------------------------------|-----------------------------------------|---------------------------------------|
+| <img src="ss/Onboarding.png" width="200"> | <img src="ss/Home.png" width="200">       | <img src="ss/Categories.png" width="200"> |
 
-| Diet Plan                               | Notifications                         | Profile                              |
-|-----------------------------------------|---------------------------------------|--------------------------------------|
-| ![Diet Plan](ss/Diet Plan.png)          | ![Notifications](ss/Notification.png) | ![Profile](ss/Profile.png)           |
+| Diet Plan                             | Notifications                           | Profile                               |
+|---------------------------------------|-----------------------------------------|---------------------------------------|
+| <img src="ss/Diet Plan.png" width="200"> | <img src="ss/Notification.png" width="200"> | <img src="ss/Profile.png" width="200"> |
 
-| Sign In                                 | Sign Up                               | Get Started                          |
-|-----------------------------------------|---------------------------------------|--------------------------------------|
-| ![Sign In](ss/Sign In.png)              | ![Sign Up](ss/Sign Up.png)            | ![Get Started](ss/Get Started.png)   |
+| Sign In                               | Sign Up                                 | Get Started                           |
+|---------------------------------------|-----------------------------------------|---------------------------------------|
+| <img src="ss/Sign In.png" width="200"> | <img src="ss/Sign Up.png" width="200">    | <img src="ss/Get Started.png" width="200"> |
 
-| Welcome                                 |
-|-----------------------------------------|
-| ![Welcome](ss/Logo.png)                 |
+| Welcome                               |
+|---------------------------------------|
+| <img src="ss/Logo.png" width="200">   |
 
 ## Instructions
 - **Sign In/Sign Up**: Create or access your account.
